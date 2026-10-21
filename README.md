@@ -6,26 +6,37 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-> Investment and passive income simulator built with Next.js and deployed on Vercel. Calculate CDB returns, financial goals, and retirement timelines with clean charts and real-time projections.
+> Simulador de investimentos em CDB, renda passiva e metas financeiras construído com Next.js e hospedado na Vercel.
 
 ---
 
-## Features
+## 🚀 Funcionalidades
 
-- **Compound Interest Projection**: Simulate investments over months and years with customizable interest rates.
-- **Passive Income Planner**: Calculate how much capital is needed to achieve a target monthly income.
-- **Responsive Dashboard**: Clean UI built with Tailwind CSS and React components.
-
----
-
-## Tech Stack
-
-- **Framework**: Next.js (React)
-- **Styling**: Tailwind CSS
-- **Deployment**: Vercel
+- **Projeção de Juros Compostos**: Simule investimentos ao longo dos meses e anos com taxas customizáveis.
+- **Planejador de Renda Passiva**: Calcule o capital necessário para atingir sua meta de renda mensal.
+- **Dashboard Responsivo**: Interface limpa e moderna desenvolvida com Tailwind CSS e React.
 
 ---
 
-## License
+## 🛠️ Tech Stack
 
-Distributed under the MIT License. See  for more information.
+- **Framework**: Next.js / React
+- **Estilização**: Tailwind CSS
+- **Deploy**: Vercel
+
+---
+
+## 📦 Como Executar
+
+```bash
+git clone https://github.com/silviorodrigues98/dream-calc.git
+cd dream-calc
+npm install
+npm run dev
+```
+
+---
+
+## 📄 Licença
+
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
