@@ -1,53 +1,31 @@
-# Calculadora de Sonhos
+# Dream Calculator
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![License](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-> Simulador de investimentos em CDB com cálculo de renda passiva e metas financeiras. Descubra quanto precisa investir para realizar seus sonhos.
+> Investment and passive income simulator built with Next.js and deployed on Vercel. Calculate CDB returns, financial goals, and retirement timelines with clean charts and real-time projections.
 
-## ✨ Funcionalidades
+---
 
-- ✅ Simulação de CDB com taxas reais de mercado
-- ✅ Cálculo de renda passiva mensal
-- ✅ Definição de metas financeiras personalizadas
-- ✅ Projeção gráfica do crescimento do investimento
-- ✅ Interface responsiva e tema escuro
+## Features
 
-## 🚀 Demonstração
+- **Compound Interest Projection**: Simulate investments over months and years with customizable interest rates.
+- **Passive Income Planner**: Calculate how much capital is needed to achieve a target monthly income.
+- **Responsive Dashboard**: Clean UI built with Tailwind CSS and React components.
 
-**🔗 [calculador-de-sonhos.vercel.app](https://calculador-de-sonhos.vercel.app)**
+---
 
-## 🛠 Stack
+## Tech Stack
 
-- **Framework:** Next.js
-- **UI:** React + CSS Modules
-- **Gráficos:** Chart.js / Recharts
-- **Deploy:** Vercel
+- **Framework**: Next.js (React)
+- **Styling**: Tailwind CSS
+- **Deployment**: Vercel
 
-## 🚀 Como usar localmente
+---
 
-```bash
-git clone https://github.com/silviorodrigues98/calculador-de-sonhos
-cd calculador-de-sonhos
-npm install
-npm run dev
-```
+## License
 
-Acesse `http://localhost:3000`
-
-## 📁 Estrutura
-
-```
-src/
-├── components/     # Componentes reutilizáveis
-├── pages/          # Rotas da aplicação
-├── styles/         # Estilos globais
-├── utils/          # Funções auxiliares
-└── lib/            # Lógica de cálculo financeiro
-```
-
-## 📄 Licença
-
-MIT © [Silvio Rodrigues](https://github.com/silviorodrigues98)
+Distributed under the MIT License. See  for more information.
