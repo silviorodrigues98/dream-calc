@@ -8,6 +8,8 @@
 
 > Simulador de investimentos em CDB, renda passiva e metas financeiras construído com Next.js e hospedado na Vercel.
 
+🔗 **[Acessar Aplicação (Live Demo)](https://dream-calc-umber.vercel.app/)**
+
 ---
 
 ## 🚀 Funcionalidades
